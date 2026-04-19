@@ -2,6 +2,10 @@
 
 A desktop Library Management application built with Python and Tkinter.
 
+![Library Management System UI](image.png)
+
+![Library Dashboard UI](image2.png)
+
 ## Overview
 
 This project provides a simple librarian workflow with:
@@ -41,6 +45,7 @@ python lib_manage.py
    - Remove Book: removes a title from available books
    - Issue Book: moves a title from available books to issued books
 5. Use Refresh Book List to reload displayed book data.
+
 
 ## Current Limitations
 

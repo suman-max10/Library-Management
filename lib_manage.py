@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 
-# library 
+# library main
 class LibraryManagement:
     def __init__(self, master):
         self.master = master
